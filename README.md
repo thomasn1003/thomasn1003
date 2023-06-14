@@ -1,4 +1,4 @@
-<img src=”https://github.com/thomasn1003/thomasn1003/assets/111840718/ced6bde0-ef7c-45d4-a882-5920468a1851" alt=”My Banner”> 
+<img src=![Blue Yellow Futuristic Virtual Technology Blog Banner (1)](https://github.com/thomasn1003/thomasn1003/assets/111840718/b2a830b4-8477-4aec-a0f7-b33e01176120)> 
 
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
