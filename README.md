@@ -8,6 +8,12 @@
 
 Welcome 👋, I'm Thomas Nguyen
 </h3>
+
+<h2 align="center">
+I am currently a Computer Science Major at Cal State University, Fullerton 💻
+</h2> 
+
+
                                                                                                    
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
