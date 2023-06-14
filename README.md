@@ -28,35 +28,28 @@ I am currently a Computer Science Major at <a href="http://www.fullerton.edu/" t
 
 ## 💼 Technical Skills
 - 📜 &nbsp;Language:&nbsp;
-  ![Javascript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=Javascript&logoColor=yellow)
-  ![GO](https://img.shields.io/badge/-Go-0A1A2F?style=flat&logo=go)
-- 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-- 🗄 &nbsp;Backend:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-0A1A2F?style=flat&logo=express&logoColor=blue)
-  ![NestJS](https://img.shields.io/badge/-NestJS-0A1A2F?style=flat&logo=nestjs&logoColor=red)
-- 🌐 &nbsp;Frontend:&nbsp;
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular&logoColor=d5042f)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-- 🛢 &nbsp;Database:&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+- 🖥️ &nbsp;OS:&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-bitbucket-0A1A2F?style=flat&logo=bitbucket)
+  
 - 🔧 &nbsp;IDE's:&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=sublime-text&logoColor=orange)
-- 🖥 &nbsp;Design:&nbsp;
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-- ♾️ &nbsp;Devops:&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
+ <!--
+- 🛢 &nbsp;Database:&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+
+- 🌐 &nbsp;Frontend:&nbsp;
+- 🗄 &nbsp;Backend:&nbsp;
+- 📱 &nbsp;Mobile:&nbsp;
