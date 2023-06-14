@@ -2,7 +2,7 @@
 
 **![bbb](https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433)**
 <img width=”200" height=”200" src=”https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433" alt=”my banner”>
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433" alt=”my banner”>
+<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433](https://github.com/thomasn1003/thomasn1003/assets/111840718/7368a8d9-d2c6-4d49-9bf2-1706314c2358)" alt=”my banner”>
 </p>
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
