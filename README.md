@@ -2,7 +2,7 @@
 
 
 
-<img width=”200" height=”200" src=”[https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/thomasn1003/thomasn1003/assets/111840718/8c8b1e44-140c-4361-88a4-5fb684a72933)" alt=”My Banner”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/thomasn1003/thomasn1003/assets/111840718/8c8b1e44-140c-4361-88a4-5fb684a72933)" alt=”My Banner”>
 
 </p>
 # Welcome 👋, I am Thomas Nguyen.
