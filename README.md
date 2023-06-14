@@ -16,10 +16,6 @@ I am currently a Computer Science Major at Cal State University, Fullerton 💻
 <a href="https://www.linkedin.com/in/thomasn1003/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thomas Nguyen | LinkedIn" /></a>  <a href="https://twitter.com/thomasn1003"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Thomas Nguyen | Twitter" /></a>  <a href="https://www.instagram.com/thomas.nguyen/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Thomas Nguyen | Instagram" /></a>
 
 
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
 
