@@ -17,14 +17,12 @@ I am currently a Computer Science Major at Cal State University, Fullerton 💻
 
 ## 🔭 I'm currently working on
 
-- poke-finder project
-- anime project
+- Pairs Trading Project
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently reviewing
 
-- 
-
-
+- C++
+- Algorithms and Data Structures
 
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
