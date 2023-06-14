@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Welcome 👋, I'm Thomas
+Welcome 👋, I'm Thomas Nguyen
 </h3>
 
                                                                                                            
