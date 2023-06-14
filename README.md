@@ -3,6 +3,11 @@
 ![bbb](https://github.com/thomasn1003/thomasn1003/assets/111840718/7368a8d9-d2c6-4d49-9bf2-1706314c2358)
                                                                                  
 </p>
+
+<h3 align="center">
+Welcome 👋, I'm Thomas
+</h3>
+
                                                                                                            
 # Welcome 👋, I am Thomas Nguyen.
 I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. These are some of my projects that I have worked on. If you have any questions or inquiries contact me at thomas1003nguyen@gmail.com
