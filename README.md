@@ -1,7 +1,7 @@
 <p align=”center”>
 
 **![bbb](https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433)**
-
+<img width=”200" height=”200" src=”https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433" alt=”my banner”>
 <img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/thomasn1003/thomasn1003/assets/111840718/80a201d6-79ef-421f-98b2-9fdec197b433" alt=”my banner”>
 </p>
 # Welcome 👋, I am Thomas Nguyen.
