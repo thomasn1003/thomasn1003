@@ -18,6 +18,7 @@ I am currently a Computer Science Major at <a href="http://www.fullerton.edu/" t
 ## 🔭 I'm currently working on
 
 - Pairs Trading Project
+- Price Comparing Project
 
 ## 🌱 I'm currently reviewing
 
