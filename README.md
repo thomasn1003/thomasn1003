@@ -23,8 +23,8 @@ I am currently a Computer Science Major at <a href="http://www.fullerton.edu/" t
 
 ## 🌱 I'm currently reviewing
 
-- C++
-- Algorithms and Data Structures
+- Assembly Language
+- CSS
 
 ## 💼 Technical Skills
 - 📜 &nbsp;Language:&nbsp;
