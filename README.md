@@ -7,11 +7,11 @@
 <h3 align="center">
 
 Welcome 👋,
-</h3>
+</h2>
 
-<h2 align="center">
+<h3 align="center">
 I am Thomas Nguyen, a software engineer based in the USA</a>💻
-</h2> 
+</h3> 
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/thomasn1003/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thomas Nguyen | LinkedIn" /></a>  <a href="https://twitter.com/thomasn1003"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Thomas Nguyen | Twitter" /></a>  <a href="https://www.instagram.com/thomas.nguyen/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Thomas Nguyen | Instagram" /></a> 
