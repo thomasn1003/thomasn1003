@@ -6,11 +6,13 @@
 
 <h3 align="center">
 
-Welcome 👋,
+Hi Welcome 👋,
 </h2>
 
 <h3 align="center">
-I am Thomas Nguyen, a software engineer based in the USA</a>💻
+I am Thomas Nguyen, a software engineer based in the USA </a>💻
+
+I build whatever I can imagine
 </h3> 
 
 #### Connect with me:
