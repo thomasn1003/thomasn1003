@@ -10,7 +10,7 @@ Welcome 👋, I'm Thomas Nguyen
 </h3>
 
 <h2 align="center">
-I am currently a Computer Science Major at <a href="http://www.fullerton.edu/" target="_blank" rel="noreferrer">Cal State University, Fullerton</a>💻
+I am a computer science graduate from <a href="http://www.fullerton.edu/" target="_blank" rel="noreferrer">Cal State University, Fullerton</a>💻
 </h2> 
 
 #### Connect with me:
