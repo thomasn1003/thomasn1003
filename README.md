@@ -6,11 +6,11 @@
 
 <h3 align="center">
 
-Welcome 👋, I'm Thomas Nguyen
+Welcome 👋,
 </h3>
 
 <h2 align="center">
-I am a computer science graduate from <a href="http://www.fullerton.edu/" target="_blank" rel="noreferrer">Cal State University, Fullerton</a>💻
+I am Thomas Nguyen, a software engineer based in the USA</a>💻
 </h2> 
 
 #### Connect with me:
