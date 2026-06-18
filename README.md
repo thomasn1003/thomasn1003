@@ -1,8 +1,4 @@
-<p align=”center”>
-  
-![bbb](https://github.com/thomasn1003/thomasn1003/assets/111840718/7368a8d9-d2c6-4d49-9bf2-1706314c2358)
-                                                                                 
-</p>
+
 
 <h2 align="center">
 
