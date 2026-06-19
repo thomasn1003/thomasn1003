@@ -16,12 +16,11 @@ I build whatever I can imagine
 
 ## 🔭 I'm currently working on
 
-- Pairs Trading Project
-- Price Comparing Project
+- Sneaker-search Project
 
 ## 🌱 I'm currently reviewing
 
-
+- How to use Ai to my advantage
 
 ## 💼 Technical Skills
 - 📜 &nbsp;Language:&nbsp;
